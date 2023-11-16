@@ -2,7 +2,7 @@
 # uvicorn main:app --reload
 from dotenv import load_dotenv
 import os
-i
+
 
 # Load configurations from .env file
 load_dotenv()
